@@ -81,9 +81,10 @@ Each brief in this folder follows the same shape, and so should your talk:
 
 ## Roster (sign up here)
 
-| Topic # | Presenter(s) | Date |
-|---------|--------------|------|
-|         |              |      |
+Claims live in **[SCHEDULE.md](../SCHEDULE.md)** at the repo root — pick a topic and a
+Mon/Wed slot there (up to two students per tutorial, max 3 tutorials per call day), then
+validate with `python3 check_schedule.py`. See the [root README](../README.md) for the
+full rules.
 
 *Suggested ordering: foundations and LLM/API topics early (weeks 2–4); agent-construction and
 retrieval topics mid-term (weeks 5–8); evaluation and evolutionary topics around the pivot
