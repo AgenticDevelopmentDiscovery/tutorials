@@ -3,6 +3,7 @@ title: "Tutorial 33 — The Hugging Face Ecosystem"
 status: draft
 updated: 2026-06-25
 unit: tutorial
+student: Johnson Sanya
 ---
 
 # Tutorial 33 — The Hugging Face Ecosystem
