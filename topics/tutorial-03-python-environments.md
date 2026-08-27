@@ -3,6 +3,7 @@ title: "Tutorial 03 — Python Environments & Reproducibility"
 status: draft
 updated: 2026-06-25
 unit: tutorial
+student: Manendri Uduwela
 ---
 
 # Tutorial 03 — Python Environments & Reproducibility
