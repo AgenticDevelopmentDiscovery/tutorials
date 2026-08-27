@@ -20,7 +20,7 @@ Then validate with `python3 check_schedule.py`.
 | 2026-09-07 | Mon | — no call (Labor Day) — | — | — |
 | 2026-09-09 | Wed |        |        |        |
 | 2026-09-14 | Mon |        |        |        |
-| 2026-09-16 | Wed |        |        |        |
+| 2026-09-16 | Wed | 32 · Andrew Vogel |        |        |
 | 2026-09-21 | Mon |        |        |        |
 | 2026-09-23 | Wed |        |        |        |
 | 2026-09-28 | Mon |        |        |        |
