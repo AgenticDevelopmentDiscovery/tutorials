@@ -1,6 +1,6 @@
 # Tutorials — Sign-Up & Schedule
 
-Student-led peer-teaching tutorials for the course. Each tutorial is a ~15-minute talk
+Student-led peer-teaching tutorials for the course. Each tutorial is a ~5-8-minute talk
 (plus Q&A) prepared by **up to two students**, presented during a regular class call.
 
 - **What's available:** browse the [topic menu](topics/README.md) — 36 briefs, one file per topic.
