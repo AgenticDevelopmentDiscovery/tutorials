@@ -22,7 +22,7 @@ Then validate with `python3 check_schedule.py`.
 | 2026-09-14 | Mon |        |        |        |
 | 2026-09-16 | Wed | 32 · Andrew Vogel |        |        |
 | 2026-09-21 | Mon |        |        |        |
-| 2026-09-23 | Wed |        |        |        |
+| 2026-09-23 | Wed | 3 · Manendri Uduwela |        |        |
 | 2026-09-28 | Mon |        |        |        |
 | 2026-09-30 | Wed |        |        |        |
 | 2026-10-05 | Mon |        |        |        |
