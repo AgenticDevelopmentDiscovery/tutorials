@@ -37,7 +37,7 @@ Then validate with `python3 check_schedule.py`.
 | 2026-11-04 | Wed |        |        |        |
 | 2026-11-09 | Mon |        |        |        |
 | 2026-11-11 | Wed |        |        |        |
-| 2026-11-16 | Mon |        |        |        |
+| 2026-11-16 | Mon | 19 · Mateus Lima       |        |        |
 | 2026-11-18 | Wed |        |        |        |
 | 2026-11-23 | Mon |        |        |        |
 | 2026-11-25 | Wed |        |        |        |
